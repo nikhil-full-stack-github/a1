@@ -1,0 +1,44 @@
+*{
+
+    overflow-x: hidden;
+}
+
+.index-1{
+
+    font-size: 15px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: auto;
+    border: 1px solid blue;
+    height: 100%;
+
+}
+
+.index-2{
+
+ color: white;
+
+}
+
+.card{
+   
+    width: 100%;
+    height: auto;
+    border: 1px solid blue;
+
+}
+
+.row{
+   
+   border: 1px solid black;
+
+}
+
+
+.col{
+
+      border: 1px solid white;
+
+}
